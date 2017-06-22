@@ -1,2 +1,2 @@
 # hello-world
-probni repoyitorij
+probni repozitorij
